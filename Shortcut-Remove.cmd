@@ -1,1 +1,0 @@
-reg DELETE "HKEY_CLASSES_ROOT\SystemFileAssociations\.pdf\shell\Remove All Restrictions"
