@@ -1,1 +1,0 @@
-reg ADD "HKEY_CLASSES_ROOT\SystemFileAssociations\.pdf\shell\Remove All Restrictions\command" /ve /d "\"%~dp0\PDF-Restrictions-Remover.exe\" \"%%1\""
